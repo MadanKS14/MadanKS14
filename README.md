@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kowtechenthusiast&show_icons=true&theme=radical" alt="kowtechenthusiast's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MadanKS14&show_icons=true&theme=radical" alt="kowtechenthusiast's github stats" />
 </p>
